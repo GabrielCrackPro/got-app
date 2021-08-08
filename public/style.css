@@ -1,0 +1,13 @@
+* {
+  font-family: "Andada Pro", serif;
+}
+.got-bg {
+  background: #f0edde;
+}
+.got-border {
+  border-bottom: 2px solid #f0edde;
+}
+.card img {
+  width: 350px;
+  height: 200px;
+}
